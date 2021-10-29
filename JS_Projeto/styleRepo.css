@@ -1,0 +1,32 @@
+body{
+	background-color: #F0E5CF;
+	color:white;
+}
+table thead{
+	background-color:#09B6B7;
+	color: purple;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+td{
+	color: slategrey;
+}
+
+.display-5{
+	margin-top: 10px;
+	color: purple;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.voltar{
+	text-align:center;
+	
+}
+a{
+	color: orange;
+}
+.container {
+	background-color: rgb(170, 219, 219);
+}
