@@ -102,21 +102,16 @@ span{
 
 .container_cards{
     background: #F0E5CF;
-
 }
-
 
 .contato{
     text-transform: uppercase;
     color:#CEE5D0
 }
 
-
-
 .redes_sociais img{
     border-radius: 50%; 
     text-decoration: none;
-    
 }
 
 .footer{
@@ -125,14 +120,13 @@ span{
    background:  purple;
    padding: 10px 0;
    text-align: center;
-   
 }
 
 .footer-copyright{
     font-size: 15px;
     color: gainsboro;
-
 }
+
 /*--------Formulario----------*/
 
 .formulario{
@@ -144,8 +138,8 @@ span{
 }
 
 
-.formulario__input {
-	width: 100%;
+.formulario__input, #input {
+	width: 50%;
 	background: #fff;
 	border: 3px solid transparent;
 	border-radius: 3px;
@@ -157,7 +151,7 @@ span{
 }
 
 .formulario__msj{
-    width: 100%;
+    width: 50%;
 	background: #fff;
 	border: 3px solid transparent;
 	border-radius: 3px;
