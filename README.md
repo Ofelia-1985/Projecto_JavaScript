@@ -1,7 +1,7 @@
 <h1 align="center">Projeto Final de Javascript</h1>
 
 <p align="center">
-Desenvolvimento final de meu portafolio, o qual foi evuluindo desde o HTML até consumir uma API :)
+Desenvolvimento final de meu portafolio, o qual foi evuluindo desde o HTML até consumir uma API.
 <br/>
 </p>
 
